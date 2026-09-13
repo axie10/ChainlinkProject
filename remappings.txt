@@ -1,1 +1,2 @@
 @chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/src/
+@pythnetwork/pyth-sdk-solidity/=lib/pyth-sdk-solidity
